@@ -50,219 +50,219 @@
     "data_aggregator": [
         {
             "name": "CoinMarketCap",
-            "url": "https://coinmarketcap.com/currencies/ethereum/"
+            "url": "Polygon"
         },
         {
             "name": "CoinGecko",
-            "url": "https://www.coingecko.com/en/coins/ethereum"
+            "url": "Polygon"
         },
         {
             "name": "DefiLlama",
-            "url": "https://defillama.com/chain/Ethereum"
+            "url": "Polygon"
         },
         {
             "name": "DappRadar",
-            "url": "https://dappradar.com/chain/ethereum"
+            "url": "Polygon"
         },
         {
             "name": "CryptoCompare",
-            "url": "https://www.cryptocompare.com/coins/eth/overview"
+            "url": "Polygon"
         },
         {
             "name": "TradingView",
-            "url": "https://www.tradingview.com/symbols/ETHUSD/"
+            "url": "Polygon"
         },
         {
             "name": "CoinDesk",
-            "url": "https://www.coindesk.com/price/ethereum/"
+            "url": "Polygon"
         },
         {
             "name": "Investing",
-            "url": "https://www.investing.com/crypto/ethereum/eth-usd"
+            "url": "Polygon"
         },
         {
             "name": "MarketWatch",
-            "url": "https://www.marketwatch.com/investing/cryptocurrency/ethusd"
+            "url": "Polygon"
         },
         {
             "name": "Yahoo Finance",
-            "url": "https://finance.yahoo.com/quote/ETH-USD"
+            "url": "Polygon"
         }
     ],
     "explorers": [
         {
             "name": "Etherscan",
-            "url": "https://etherscan.io/"
+            "url": "Polygon"
         },
         {
             "name": "Blockchair",
-            "url": "https://blockchair.com/ethereum"
+            "url": "Polygon"
         },
         {
             "name": "Parsec",
-            "url": "https://parsec.fi/"
+            "url": "Polygon"
         },
         {
             "name": "OKLink",
-            "url": "https://www.oklink.com/eth"
+            "url": "Polygon"
         },
         {
             "name": "Ethplorer",
-            "url": "https://ethplorer.io/"
+            "url": "Polygon"
         },
         {
             "name": "TokenView",
-            "url": "https://eth.tokenview.io/"
+            "url": "Polygon"
         },
         {
             "name": "3xpl",
-            "url": "https://3xpl.com/ethereum"
+            "url": "Polygon"
         },
         {
             "name": "BlockSec",
-            "url": "https://phalcon.blocksec.com/explorer"
+            "url": "Polygon"
         },
         {
             "name": "OpenChain",
-            "url": "https://openchain.xyz/trace"
+            "url": "Polygon"
         },
         {
             "name": "Tenderly",
-            "url": "https://dashboard.tenderly.co/explorer"
+            "url": "Polygon"
         },
         {
             "name": "Dedaub",
-            "url": "https://app.dedaub.com/?network=ethereum"
+            "url": "Polygon"
         }
     ],
     "bridges": [
         {
             "name": "Layer Zero",
-            "url": "https://layerzero.network/"
+            "url": "Polygon"
         },
         {
             "name": "Axelar",
-            "url": "https://axelar.network/"
+            "url": "Polygon"
         },
         {
             "name": "Hop Protocol",
-            "url": "https://hop.exchange/"
+            "url": "Polygon"
         },
         {
             "name": "Connext",
-            "url": "https://connext.network/"
+            "url": "Polygon"
         },
         {
             "name": "Wormhole",
-            "url": "https://wormhole.com/"
+            "url": "Polygon"
         },
         {
             "name": "Stargate",
-            "url": "https://stargate.finance/"
+            "url": "Polygon"
         }
     ],
     "bounty": [
         {
             "name": "Bug Bounty Program",
-            "url": "https://ethereum.org/en/bug-bounty/"
+            "url": "Polygon"
         }
     ],
     "grants": [
         {
             "name": "Ethereum Foundation",
-            "url": "https://ethereum.org/en/community/grants/"
+            "url": "Polygon"
         }
     ],
     "faucets": [
         {
             "name": "Alchemy",
-            "url": "https://goerlifaucet.com"
+            "url": "Polygon"
         },
         {
             "name": "QuickNode",
-            "url": "https://faucet.quicknode.com/ethereum"
+            "url": "Polygon"
         },
         {
             "name": "All That Node",
-            "url": "https://www.allthatnode.com/faucet/ethereum.dsrv"
+            "url": "Polygon"
         },
         {
             "name": "Holesky PoW Faucet",
-            "url": "https://holesky-faucet.pk910.de/"
+            "url": "Polygon"
         }
     ],
     "rpcs": [
         {
             "name": "Chainlist",
-            "url": "https://chainlist.org/chain/1"
+            "url": "Polygon"
         }
     ],
     "wallets": [
         {
             "name": "Wallet Finder",
-            "url": "https://ethereum.org/wallets/find-wallet"
+            "url": "Polygon"
         },
         {
             "name": "Metamask",
-            "url": "https://metamask.io/"
+            "url": "Polygon"
         },
         {
             "name": "Safe",
-            "url": "https://safe.global/"
+            "url": "Polygon"
         },
         {
             "name": "Rainbow",
-            "url": "https://rainbow.me/"
+            "url": "Polygon"
         },
         {
             "name": "Coinbase Wallet",
-            "url": "https://www.coinbase.com/wallet"
+            "url": "Polygon"
         },
         {
             "name": "OKX",
-            "url": "https://www.okx.com/web3"
+            "url": "Polygon"
         },
         {
             "name": "Trezor",
-            "url": "https://trezor.io/"
+            "url": "Polygon"
         },
         {
             "name": "Ledger",
-            "url": "https://www.ledger.com/"
+            "url": "Polygon"
         }
     ],
     "oracles": [
         {
             "name": "Chainlink",
-            "url": "https://chain.link/"
+            "url": "Polygon"
         },
         {
             "name": "Band Protocol",
-            "url": "https://bandprotocol.com/"
+            "url": "Polygon"
         },
         {
             "name": "Tellor",
-            "url": "https://tellor.io/"
+            "url": "Polygon"
         },
         {
             "name": "API3",
-            "url": "https://api3.org/"
+            "url": "Polygon"
         },
         {
             "name": "Razor Network",
-            "url": "https://razor.network/"
+            "url": "Polygon"
         },
         {
             "name": "DIA",
-            "url": "https://diadata.org/"
+            "url": "Polygon"
         },
         {
             "name": "Provable",
-            "url": "https://provable.xyz/"
+            "url": "Polygon"
         },
         {
             "name": "Chronicle",
-            "url": "https://chroniclelabs.org/"
+            "url": "Polygon"
         }
     ]
 }
